@@ -1,4 +1,3 @@
-import javax.swing.UIManager;
 
 public class hw01_1_104021052 {
 
